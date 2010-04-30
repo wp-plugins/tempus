@@ -6,11 +6,17 @@ Requires at least: 2.0
 Tested up to: 2.0
 Stable tag: 1
 
-Este plugin tem como objetivo manter um controle simples e eficiente de eventos de forma a listá-los como widget
+Only in Portuguese (BR) yet. Others languages soon. Este plugin tem como objetivo manter um controle simples e eficiente de eventos
 
 == Description ==
-
-A ideia desse plugin é oferecer uma opção eficiente para controle e listagem de eventos, o que atualmente é uma necessidade de muitos sites.
+Only in Portuguese (Brazil) yet... Others languages soon...
+This plugin aims to maintain a simple and efficient control of events and list
+them as a widget
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Este plugin tem como objetivo manter um controle simples e eficiente de eventos
+de forma a listá-los como widget
+Enfim, a ideia desse plugin é oferecer uma opção eficiente para controle e listagem de
+eventos, o que atualmente é uma necessidade de muitos sites.
 
 No futuro há a ideia de integrá-lo ao Google Calendar.
 
@@ -21,9 +27,7 @@ No futuro há a ideia de integrá-lo ao Google Calendar.
 
 == Frequently Asked Questions ==
 
-= A question that someone might have =
-
-= What about foo bar? =
+= No question yet =
 
 
 == Screenshots ==
@@ -35,13 +39,10 @@ No screenshots yet
 No upgrade yet
 
 == Changelog ==
-=1.0=
+=0.1=
 Criado plugin para gerenciamento de eventos
 
-== Arbitrary section ==
-
-
-== A brief Markdown Example ==
+== Uso ==
 
 Use [list-events] para listar os eventos em um Post ou Pagina.
 Ou utilize as funcoes list_events() e get_events()
