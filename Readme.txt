@@ -39,8 +39,13 @@ No screenshots yet
 No upgrade yet
 
 == Changelog ==
-=0.1=
+
+=1.0.01=
+Atualizações na estrutura
+
+=1.0=
 Criado plugin para gerenciamento de eventos
+
 
 == Uso ==
 
