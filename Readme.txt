@@ -3,7 +3,7 @@ Contributors: Patrick Kaminski, Sibanir J. Lombardi
 Donate link: http://tempusproject.wordpress.com/
 Tags: tempus, events, calendar, diary, tasks, to-do, agenda
 Requires at least: 2.0
-Tested up to: 2.0
+Tested up to: 3.9
 Stable tag: 1
 
 Only in Portuguese (BR) yet. Others languages soon. Este plugin tem como objetivo manter um controle simples e eficiente de eventos

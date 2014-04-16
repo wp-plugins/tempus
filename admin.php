@@ -294,7 +294,7 @@ public function tempus_about_page() {
 ?>
 <div class="wrap tempus">
 <h2>Sobre o Tempus Project</h2>
-Este plugin foi criado por <a href="http://patrickkaminski.wordpress.com/" target="_blank">Patrick Kaminski</a> e Sibanir J. Lombardi para atender as necessidades que muitas pessoas encontram no momento em que desejam incluir uma listagem de eventos em sites baseados no Wordpress.<br /><br />
+Este plugin foi criado por <a href="http://patrickkaminski.com/" target="_blank">Patrick Kaminski</a> e Sibanir J. Lombardi para atender as necessidades que muitas pessoas encontram no momento em que desejam incluir uma listagem de eventos em sites baseados no Wordpress.<br /><br />
 Maiores informa&ccedil;&otilde;es: <a href="http://tempusproject.wordpress.com/" target="_blank">http://tempus-project.wordpress.com/</a>
 <?php
 }
